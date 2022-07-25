@@ -1,4 +1,6 @@
-### hello, world 🌎🌍🌏
+### taylor d. edmiston
+
+[taylore.dev](https://taylore.dev)
 
 <!--
 **tedmiston/tedmiston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
